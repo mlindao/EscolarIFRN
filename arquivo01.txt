@@ -4,3 +4,6 @@ meu primeiro arquivo
 minha segunda linha digitando 
 minha terceira linha digitando
 minha quarta linha digitando
+minha quarta linha digitando
+mais outra linha
+preciso incluir uma nova linha
